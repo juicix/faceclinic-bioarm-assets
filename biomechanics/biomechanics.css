@@ -2160,7 +2160,7 @@
 @media (max-width:359px) { #fc-method { --type-heading:30px; --type-body:18px; } }
 
 #fc-method { --section-pad:32px; }
-#fc-method #fc-bio-hero-title .fc-hero-suffix { font-size:.62em; line-height:1.1; margin-top:.12em; }
+#fc-method #fc-bio-hero-title .fc-hero-suffix { font-size:inherit; line-height:inherit; margin-top:.12em; }
 #fc-method > section[class] { min-height:0 !important; }
 #fc-method > section.fc-method-hero { min-height:clamp(580px,44vw,820px) !important; display:flex; align-items:center; }
 #fc-method .fc-bio-hero__art img { position:static; width:100%; height:100%; transform:none; }
